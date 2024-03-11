@@ -7,7 +7,7 @@ body {
 #heading3 {
     color: rgb(206, 67, 67);
 }
-#carouselExampleCaptions {
+/* #carouselExampleCaptions { */
    width: 1300px;
    align-content: center;
 }
