@@ -1,0 +1,16 @@
+div h2 {
+    color:rgb(117, 115, 115);
+}
+body {
+    background-color: rgb(182, 182, 184);
+}
+#heading3 {
+    color: rgb(206, 67, 67);
+}
+#carouselExampleCaptions {
+   width: 1300px;
+   align-content: center;
+}
+#heading2 {
+    color: wheat;
+}
